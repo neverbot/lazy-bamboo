@@ -1,0 +1,12 @@
+node_modules/
+
+# WebStorm
+.idea/
+*.iml
+# Sublime
+*.sublime-workspace
+# VSCode
+.vscode
+
+# MacOS
+.DS_Store
